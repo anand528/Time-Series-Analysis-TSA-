@@ -3,29 +3,29 @@ Time Series Analysis (TSA)  using AR (Auto Regression ) and ARIMA Algorithms for
 
 ---
 
-📈 Time Series Analysis with AR & ARIMA
-🔎 Overview
+# 📈 Time Series Analysis with AR & ARIMA
+## 🔎 Overview
 This project demonstrates time series forecasting using Autoregressive (AR) and Autoregressive Integrated Moving Average (ARIMA) models.
 We apply these algorithms to real-world datasets (e.g., airline passenger counts) to explore stationarity, autocorrelation, model selection, and forecast accuracy.
 
 ---
 
 # 🛠️ Features
-Exploratory Data Analysis (EDA) of time series data
-Stationarity checks using ADF (Augmented Dickey-Fuller) test
-Autocorrelation and Partial Autocorrelation plots (ACF & PACF)
-AR and ARIMA model fitting with different (p,d,q) parameters
-Error handling for invalid parameter combinations
-Forecast evaluation using MAE, MSE, RMSE
-Comparison of models using AIC (Akaike Information Criterion)
+- Exploratory Data Analysis (EDA) of time series data
+- Stationarity checks using ADF (Augmented Dickey-Fuller) test
+- Autocorrelation and Partial Autocorrelation plots (ACF & PACF)
+- AR and ARIMA model fitting with different (p,d,q) parameters
+- Error handling for invalid parameter combinations
+- Forecast evaluation using MAE, MSE, RMSE
+- Comparison of models using AIC (Akaike Information Criterion)
 
 ---
 
 # 📂 Project Structure
-├── Time_Series.ipynb   Jupyter Notebook with full analysis
-├── README.md           Project documentation
-├── requirements.txt    Python dependencies
-└── data/               Dataset(s) used
+- ├── Time_Series.ipynb   Jupyter Notebook with full analysis
+- ├── README.md           Project documentation
+- ├── requirements.txt    Python dependencies
+- └── data/               Dataset(s) used
 
 ---
 
