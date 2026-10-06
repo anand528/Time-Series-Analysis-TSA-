@@ -22,10 +22,10 @@ Comparison of models using AIC (Akaike Information Criterion)
 ---
 
 # 📂 Project Structure
-├── Time_Series.ipynb   # Jupyter Notebook with full analysis
-├── README.md           # Project documentation
-├── requirements.txt    # Python dependencies
-└── data/               # Dataset(s) used
+├── Time_Series.ipynb   Jupyter Notebook with full analysis
+├── README.md           Project documentation
+├── requirements.txt    Python dependencies
+└── data/               Dataset(s) used
 
 ---
 
