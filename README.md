@@ -1,4 +1,4 @@
-# Time-Series-Analysis-TSA-
+# Time-Series-Analysis
 Time Series Analysis (TSA)  using AR (Auto Regression ) and ARIMA Algorithms for Predictions future values. 
 
 ---
