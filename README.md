@@ -30,37 +30,37 @@ We apply these algorithms to real-world datasets (e.g., airline passenger counts
 ---
 
 # ⚙️ Installation
-Clone the repository and install dependencies:
-git clone https://github.com/anand528/time-series-arima.git
-cd time-series-arima
-pip install -r requirements.txt
+- Clone the repository and install dependencies:
+- git clone https://[github.com/anand528/time-series-arima.git](https://github.com/anand528/Time-Series-Analysis-TSA-/tree/main)
+- cd time-series-arima
+- pip install -r requirements.txt
 
 ---
 
 # 📊 Usage
 Open the notebook:
 * jupyter notebook Time_Series.ipynb
-1.inside the notebook, you’ll find:
-2.ADF Test → Check stationarity
-3.ACF & PACF plots → Identify AR/MA orders
-4.ARIMA fitting loop → Try multiple (p,d,q) combinations
-5.Error metrics → Evaluate forecast accuracy
-6.AIC comparison → Select the best model
+* 1.inside the notebook, you’ll find:
+* 2.ADF Test → Check stationarity
+* 3.ACF & PACF plots → Identify AR/MA orders
+* 4.ARIMA fitting loop → Try multiple (p,d,q) combinations
+* 5.Error metrics → Evaluate forecast accuracy
+* 6.AIC comparison → Select the best model
 
 ---
 
 # 📈 Example Output
-ADF Test Results: p-value < 0.05 → Stationary after differencing
-ACF/PACF Plots: Guide AR and MA order selection
-Forecast Accuracy: RMSE, MAE, MSE values for test set
-Best ARIMA Order: Selected based on lowest AIC and error score
+- ADF Test Results: p-value < 0.05 → Stationary after differencing
+- ACF/PACF Plots: Guide AR and MA order selection
+- Forecast Accuracy: RMSE, MAE, MSE values for test set
+- Best ARIMA Order: Selected based on lowest AIC and error score
 
 ---
 
 # 🚀 Future Work
-Implement SARIMA for seasonal datasets
-Add auto_arima for automated parameter selection
-Extend to LSTM/GRU deep learning models for sequence forecasting
+- Implement SARIMA for seasonal datasets
+- Add auto_arima for automated parameter selection
+- Extend to LSTM/GRU deep learning models for sequence forecasting
 
 ---
 
